@@ -26,8 +26,8 @@
   },
   "network_config": {
     "testnet": {
-      "code": "T",
-      "server": "https://master.testnet.nodes.skey.network",
+      "code": "A",
+      "server": "https://master.testnet.node.smartkeyplatform.io",
       "matcher": ""
     },
     "mainnet": {
