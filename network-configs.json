@@ -5,7 +5,7 @@
     },
     "explorer": {
       "url": "https://explorer.smartkeyplatform.io/"
-    }
+    },
     "chainId": "M",
     "dappFather": {
       "address": "3KN8NoSsFXrs9pNhFfEQupje7aMxRXJtikm"
@@ -17,7 +17,7 @@
     },
     "explorer": {
       "url": "https://explorer.smartkeyplatform.io/testnet"
-    }
+    },
     "chainId": "A",
     "dappFather": {
       "address": "3EFsk5xLg1chejUXDcq9vWC5vbT5ZNAXjWU"
@@ -29,10 +29,10 @@
     },
     "explorer": {
       "url": "https://explorer.smartkeyplatform.io/devnet"
-    }
+    },
     "chainId": "D",
     "dappFather": {
       "address": ""
     }
-  },
+  }
 }
