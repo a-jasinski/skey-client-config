@@ -1,0 +1,14 @@
+{
+  "mainnet": {
+    "chainId": "M",
+    "url": "https://data-service.skey.network/"
+  },
+  "testnet": {
+    "chainId": "A",
+    "url": "https://dev.v3.data-service.smartkeyplatform.io"
+  },
+  "devnet": {
+    "chainId": "D",
+    "url": ""
+  },
+}
