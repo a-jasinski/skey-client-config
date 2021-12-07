@@ -1,0 +1,38 @@
+{
+  "mainnet": {
+    "dataService": {
+      "url": "https://data-service.skey.network/"
+    },
+    "explorer": {
+      "url": "https://explorer.smartkeyplatform.io/"
+    }
+    "chainId": "M",
+    "dappFather": {
+      "address": "3KN8NoSsFXrs9pNhFfEQupje7aMxRXJtikm"
+    }
+  },
+  "testnet": {
+     "dataService": {
+      "url": "https://dev.v3.data-service.smartkeyplatform.io"
+    },
+    "explorer": {
+      "url": "https://explorer.smartkeyplatform.io/testnet"
+    }
+    "chainId": "A",
+    "dappFather": {
+      "address": "3EFsk5xLg1chejUXDcq9vWC5vbT5ZNAXjWU"
+    }
+  },
+  "devnet": {
+    "dataService": {
+      "url": ""
+    },
+    "explorer": {
+      "url": "https://explorer.smartkeyplatform.io/devnet"
+    }
+    "chainId": "D",
+    "dappFather": {
+      "address": ""
+    }
+  },
+}
